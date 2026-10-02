@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Telemetry recorded by the ground station
+flight_data/
